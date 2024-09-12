@@ -1,0 +1,14 @@
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\bin\Debug\net8.0\The_CS_Player_Guide.exe
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\bin\Debug\net8.0\The_CS_Player_Guide.deps.json
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\bin\Debug\net8.0\The_CS_Player_Guide.runtimeconfig.json
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\bin\Debug\net8.0\The_CS_Player_Guide.dll
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\bin\Debug\net8.0\The_CS_Player_Guide.pdb
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\obj\Debug\net8.0\The_CS_Player_Guide.GeneratedMSBuildEditorConfig.editorconfig
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\obj\Debug\net8.0\The_CS_Player_Guide.AssemblyInfoInputs.cache
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\obj\Debug\net8.0\The_CS_Player_Guide.AssemblyInfo.cs
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\obj\Debug\net8.0\The_CS_Player_Guide.csproj.CoreCompileInputs.cache
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\obj\Debug\net8.0\The_CS_Player_Guide.dll
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\obj\Debug\net8.0\refint\The_CS_Player_Guide.dll
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\obj\Debug\net8.0\The_CS_Player_Guide.pdb
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\obj\Debug\net8.0\The_CS_Player_Guide.genruntimeconfig.cache
+D:\2_Work\Projects\CS\The_CS_Player_Guide_Fifth_Edition\The_CS_Player_Guide\The_CS_Player_Guide\obj\Debug\net8.0\ref\The_CS_Player_Guide.dll
